@@ -1,0 +1,9 @@
+pathlib
+tensorflow
+random
+pickle
+re
+unicodedata
+matplotlib
+numpy
+gradio
