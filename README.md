@@ -24,4 +24,4 @@
 
 ![training_history](https://github.com/Priykrit/Handcrafted-Transformer-Model-for-English-to-French-Translation/assets/98400044/c1a2a90c-1bfc-4fcc-868d-3c27d16f48ee)
 
-### use **pip install -r requirments.txt** to run code
+### use **_pip install -r requirments.txt_** to run code
